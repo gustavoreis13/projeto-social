@@ -47,10 +47,10 @@ section#redes-sociais img:hover {
     transition: transform 0.2s;
 }
 
-section#redes-sociais img {
+section#redes-sociais img{
     width: 50px;
     margin: 10px;
     border-radius: 50%;
-    box-shadow: 2px 2px 5px rgb(0, 0, 0);
+    box-shadow: 2px 2px 5px black;
     box-sizing: border-box;
 }
